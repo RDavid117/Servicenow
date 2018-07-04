@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_9" table="x_246123_prueba_prueba_l" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deporte</label>
+            <language>en</language>
+            <name>x_246123_prueba_prueba_l</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 17:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>375e82ce4f031300fd5bf3117310c70f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:03:15</sys_updated_on>
+            <value>deporte</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Salud</label>
+            <language>en</language>
+            <name>x_246123_prueba_prueba_l</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 17:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b75e82ce4f031300fd5bf3117310c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:03:15</sys_updated_on>
+            <value>salud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Energia</label>
+            <language>en</language>
+            <name>x_246123_prueba_prueba_l</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 17:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>375e82ce4f031300fd5bf3117310c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:03:15</sys_updated_on>
+            <value>energia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transporte</label>
+            <language>en</language>
+            <name>x_246123_prueba_prueba_l</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 17:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b35e82ce4f031300fd5bf3117310c712</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:03:15</sys_updated_on>
+            <value>transporte</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Turismo</label>
+            <language>en</language>
+            <name>x_246123_prueba_prueba_l</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 17:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>335e82ce4f031300fd5bf3117310c713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:03:15</sys_updated_on>
+            <value>turismo</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_9</element>
+            <name>x_246123_prueba_prueba_l</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 17:03:15</sys_created_on>
+            <sys_id>735e82ce4f031300fd5bf3117310c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_9</sys_name>
+            <sys_package display_value="Prueba" source="x_246123_prueba">018696b94f431300fd5bf3117310c7f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Prueba">018696b94f431300fd5bf3117310c7f2</sys_scope>
+            <sys_update_name>sys_choice_x_246123_prueba_prueba_l_u_choice_9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:03:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
